@@ -1,0 +1,7 @@
+[dirs]
+foobardir = "$datarootdir/foobar"
+
+[programs.RUSTC]
+type = "rustc"
+
+[[install.step]]
